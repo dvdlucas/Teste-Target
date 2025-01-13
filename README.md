@@ -1,3 +1,4 @@
+```
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -112,3 +113,4 @@ public class Estado
     public string Nome { get; set; }
     public decimal Faturamento { get; set; }
 }
+```
